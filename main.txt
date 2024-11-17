@@ -1,0 +1,2 @@
+Hello, man!
+If you read this, then you may just close this repo, because it's just repo to test Git
